@@ -1,3 +1,4 @@
+#### 详情请移步[个人博客](https://lyichao.github.io/reactnative/2018/02/07/ReactNative%E5%BC%80%E5%8F%91-%E8%A7%A3%E5%86%B3%E9%94%AE%E7%9B%98%E9%81%AE%E6%8C%A1%E9%97%AE%E9%A2%98/)阅读
 # IQKeyboardManager
 简单方便解决ReactNative中IOS软键盘遮挡文本框的问题
 
@@ -15,7 +16,7 @@
 >
 > - 最后重新运行项目即可！
 
-## 处理后的效果
+# 处理后的效果
 
 ![](https://github.com/lyichao/IQKeyboardManager/blob/master/QQ20190213-173849-HD.gif)
 
