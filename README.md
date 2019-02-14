@@ -17,4 +17,4 @@
 
 ## 处理后的效果
 
-![![QQ20190213-173849-HD.gif](https://upload-images.jianshu.io/upload_images/8154981-c936d2fe2e7dcb2a.gif?imageMogr2/auto-orient/strip)
+![QQ20190213-173849-HD.gif](https://upload-images.jianshu.io/upload_images/8154981-c936d2fe2e7dcb2a.gif?imageMogr2/auto-orient/strip)
