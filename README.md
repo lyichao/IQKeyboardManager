@@ -17,4 +17,5 @@
 
 ## 处理后的效果
 
-![QQ20190213-173849-HD](/Users/lee/RNWorkStation/IQKeyboardManager/QQ20190213-173849-HD.gif)
+![](https://github.com/lyichao/IQKeyboardManager/blob/master/QQ20190213-173849-HD.gif)
+
