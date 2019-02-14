@@ -1,0 +1,2 @@
+# IQKeyboardManager
+简单方便解决ReactNative中IOS软键盘遮挡文本框的问题
